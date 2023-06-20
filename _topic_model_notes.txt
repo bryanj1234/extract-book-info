@@ -1,0 +1,127 @@
+####################################################################################################
+### COMPARE ATE/ATR/AKE METHODS.
+###     ATE/ATR:    Term recognitrion, want to get domain-specific terminology.
+###                     Use for ontologies.
+###     AKE:        Keyword extraction, want to get words/phrase that best summarize the document.
+###                     Use for searching & document retrieval.
+###
+### Will compare:
+###     1) ComboBasic   (PyATE ComboBasic)
+###     2) TextRank     (PyTextRank)
+###     3) BERT         (Make-your-own)
+###
+### See
+###     TextRank:
+###         https://aneesha.medium.com/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5
+###         https://github.com/DerwenAI/pytextrank
+###         https://derwen.ai/docs/ptr/
+###     Bert:
+###         https://en.wikipedia.org/wiki/BERT_(language_model)
+###         https://github.com/MaartenGr/BERTopic
+###         https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea
+###         https://github.com/MaartenGr/KeyBERT
+###         https://github.com/naister/Keyword-OpenSource-Data/blob/master/open_source_data
+###         https://www.sbert.net/docs/pretrained_models.html
+###         https://www.sbert.net/examples/applications/clustering/README.html
+###         https://spacy.io/usage/embeddings-transformers
+###         https://github.com/explosion/spacy-transformers
+###         https://stackoverflow.com/questions/50692739/can-doc2vec-be-useful-if-training-on-documents-and-inferring-on-sentences-only
+###     Topic Modelling:
+###         https://en.wikipedia.org/wiki/Topic_model
+###         https://stats.stackexchange.com/questions/523155/what-are-the-current-approaches-to-topic-modelling-i-e-better-than-lsa-lda-l
+###         https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6
+###         https://datascience.blog.wzb.eu/2017/11/09/topic-modeling-evaluation-in-python-with-tmtoolkit/
+###         https://www.analyticsvidhya.com/blog/2020/10/quick-guide-to-evaluation-metrics-for-supervised-and-unsupervised-machine-learning
+###         https://scikit-learn.org/stable/modules/clustering.html
+###     Top2Vec:
+###         https://github.com/ddangelov/Top2Vec
+###                 https://hdbscan.readthedocs.io/en/latest/parameter_selection.html
+###                 https://umap-learn.readthedocs.io/en/latest/parameters.html
+###         https://www.sbert.net/examples/applications/clustering/README.html
+###     LDA2Vec:
+###         https://github.com/cemoody/lda2vec
+####################################################################################################
+
+####################################################################################################
+HDBSCAN NOTES
+####################################################################################################
+
+
+BAD PARAMS:
+    eom with umap min dist = 0.5 (very little noise, but very few clusters)
+    leaf with umap min dist = 0.5 (lots of noise, lots of clusters)
+
+GOOD PARAMS:
+    eom seems to make plots which are more vizually pleasing.
+
+NOTES:
+    davies_bouldin_score and calinski_harabasz_score seem to be positively correlated.
+    This means that they are in COMPETITION, because lower davies is BETTER, whereas lower calinski is WORSE.
+
+    more clusters =
+                    1) lower davies score (better)
+                    2) lower calinski score (worse)
+                    3) lower min_cluster_size argumenht
+
+    umap # components doesn't really seem to matter here.
+    min distance doesn't really seem to matter as long las it's lower than, say, 0.1
+    lower # neighbors =
+                    1) more clusters
+                    2) Less noise
+
+ARGUMENT IMPACT:
+    1) min_cluster_size large impact. Higher values = fewer clusters.
+    2) n_neighbors less impact: Heigher values = fewer clusters.
+    3) min_distance = 0.1 seems to have an impact, but only when min_cluster_size gets larger.
+        But seems that gives junky results in some cases.
+        Let's leave min_distance = 0.0
+    4) genism seems to work well for Zisner dissertation, but not as well for others.
+        But genism seems unpredictable.
+        all-mpnet-base-v2 seems to work pretty well for most things.
+    5) Up to noise, clusters fro "leaf" roll up into clusterrs from "eom",
+        so (again up to noise) you can recover "eom" clusters from "leaf" clusters
+        by using the condensed tree parent-child relationships.
+
+=============================================================================
+
+PLOTS
+
+
+BAD:
+
+intro 22
+intro 24
+intro 44
+intro 46
+
+data jiu 5
+data jiu 10
+
+data min 12
+data min 20
+data min 22
+data min 24
+data min 44
+
+GOOD:
+
+intro 2
+intro 4    !!!
+intro 12
+intro 18
+intro 20
+intro 28
+intro 30
+intro 36
+intro 40
+intro 58
+intro 74
+intro 80
+intro 100
+intro 102
+intro 108
+intro 114
+intro 119
+intro 131
+intro 132
+intro 137

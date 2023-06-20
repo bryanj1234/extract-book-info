@@ -1,0 +1,994 @@
+https://www.coursera.org/projects/anomaly-detection
+    Anomaly Detection
+    PyCaret
+    Data Visualization (DataViz)
+    compare anomaly detection algorithms
+https://www.coursera.org/projects/breast-cancer-prediction-using-machine-learning
+    Python
+    Cancer prediction
+    Perform LabelEncoding
+    Split the data into Independent and Dependent sets
+    Feature Scaling
+    Logistic Regression Classifier
+    Evaluate the performance of the model
+    Breast Cancer Wisconsin (Diagnostic) Data Set
+    Google Colab
+    clean and prepare data for analysis
+    theoretical understanding of the Logistic Regression algorithm
+https://www.coursera.org/projects/cervical-cancer-risk-prediction-using-machine-learning
+    XG-Boost classifier
+    Perform Exploratory Data Analysis
+    Data Visualization
+    Prepare the data before Model Training
+    Understand the Theory and Intuition Behind XG-Boost
+    Train and Evaluate XG-Boost Algorithm
+https://www.coursera.org/projects/ensemble-methods-machine-learning
+    ensemble techniques
+    Bagging Algorithms
+    Boosting Algorithms
+    Implement Bagging, Boosting, and Stacking
+    The main causes of error in learning models are due to noise, bias and variance, Ensemble methods help to minimize these factors
+https://www.coursera.org/projects/explainable-machine-learning-lime-h2o
+    Explainable Machine Learning
+    r-programming-language
+    LIME
+    H2O
+    Random Forests, Gradient Boosted Machines, Neural Networks, Stacked Ensembles are BLACK BOXES
+    Preprocess Data using Recipes
+    AutoML to Train and Tune Models
+    Leaderboard Exploration
+    Local Interpretable Model-Agnostic Explanations (LIME)
+    LIME to Interpret Model Outcome
+https://www.coursera.org/projects/interpretable-machine-learning-applications-part-1
+    Interpretable Machine Learning
+    classification regression models (is this the same as "regression classifiers" ???)
+    decision tree classifier
+    random forest classifier
+    extracting the most important features
+    confusion matrix
+    Python
+    Features engineering
+    Jupyter
+    ranking list of the features
+https://www.coursera.org/projects/interpretable-machine-learning-applications-part-2
+    Interpretable Machine Learning
+    Local Interpretable Model-agnostic Explanations (LIME)
+    regression classifiers (is this the same thing as "classification regression" ???)
+    Performance analysis
+    Interpretable and Explainable models
+    Perform Exploratory Data Analysis
+    three regression classifiers: Decision Tree, Random Forest, AdaBoost
+    Prepare and train the “explainer” in terms of the LIME library
+https://www.coursera.org/projects/interpretable-machine-learning-applications-part-3
+    Interpretable Machine Learning
+    HELOC dataset for mortgage application risk
+    Sequential model based Artificial Neural Network
+    "model-agnostic" explanation technique using "similar cases"
+    keras API
+    TensorFlow
+    "contrastive explanations" based on feature and pertinent negative values
+    Preprocess Data
+https://www.coursera.org/projects/interpretable-machine-learning-applications-part-4
+    Interpretable Machine Learning
+    white wine quality data
+    Google Colab  "zero configuration" environment
+    Jupyter
+    "What-If Tool" (WIT)
+    Python
+    ML project management
+    Data analysis
+    Decision Tree
+    Random Forest
+    Use WIT features to explain behavior
+https://www.coursera.org/projects/interpretable-machine-learning-applications-part-5
+    Interpretable Machine Learning
+    Aequitas Tool
+    measure and detect bias
+    COMPAS dataset on criminal recidivism
+    statistical descriptors for measuring bias and fairness
+https://www.coursera.org/projects/life-expectancy-prediction-using-machine-learning
+    regression models
+    linear regression model
+    theory and intuition
+    Data Visualization
+    exploratory data analysis
+    Scikit-Learn
+https://www.coursera.org/projects/feature-analysis-yellowbrick
+    Python
+    Data Visualization (DataViz)
+    Scikit-Learn
+    visualizations
+    workflows
+    feature ranking
+    manifold visualization
+    Anscombe's Quartet
+    RadViz
+    Parallel Coordinates Plot
+https://www.coursera.org/projects/machine-learning-for-customer-segmentation
+    Python
+    clustering
+    unsupervised machine learning
+    theory and intuition
+    PCA
+    K-Means
+    elbow method to find optimal number of clusters
+    Market segmentation
+    Scikit-Learn
+https://www.coursera.org/projects/machine-learning-h2o-flow
+    automl
+    business-analytics
+    H2O
+    no code ML
+    H2O's AutoML
+    Importing and Parsing Data
+    Build and Evaluate a GLM
+https://www.coursera.org/projects/machine-learning-streamlit-python
+    Streamlit
+    Scikit-Learn
+    machine learning web app
+    Python
+    Logistic Regression
+    Support Vector Machines
+    Random Forest Classifiers
+    Turn Simple Python Scripts into Web Apps
+https://www.coursera.org/projects/mining-quality-prediction
+    regression
+    Deep Learning
+    artificial neural networks
+    decision tree
+    andom forest
+    linear regression
+    Python
+    Understand the problem statement and business case
+    data exploration
+    data visualization
+    prepare data
+    Compare models
+    calculate regression KPI
+https://www.coursera.org/projects/natural-language-processing-for-stocks-news-analysis
+    Python
+    Deep Learning
+    Long Short Term Memory (LSTM)
+    LSTM theory and intuition
+    Natural language processing (NLP)
+    Exploratory Data Analysis
+    Data Cleaning
+    Punctuations
+    Stopwords
+    WordCloud
+    tokenizing and padding
+https://www.coursera.org/projects/nlp-fake-news-detector
+    Natural language processing (NLP)
+    Python
+    Bidirectional Neural Network
+    LSTM
+    Exploratory Data Analysis
+    Data Cleaning
+https://www.coursera.org/projects/predict-numbers-from-handwritten-digits-neuralnetwork
+    Artificial Neural Network
+    Analytics
+    Keras
+    MNIST
+    One Hot Encoding
+    Neural Network Architecture
+    Loss Optimizers
+    Keras array_reshape() function
+    Rectified Linear Unit (RELU)
+    SoftMax
+    cross_entropy
+    Confusion Matrix
+https://www.coursera.org/projects/predict-poison-mushrooms-using-random-forest
+    R Programming
+    Random Forest Model
+    FFTrees R package
+    Nathaniel Phillips
+    Exploratory Analysis
+    ggplot2
+    Testing and Training Data Sets (multiple ways to do this in R)
+    Confusion Matrix
+https://www.coursera.org/projects/preparing-data-for-machine-learning-models
+    numpy arrays
+    extracting features
+    preparing data
+    Label The Dataset
+    Computer Vision
+    Features as Numpy array
+https://www.coursera.org/projects/resume-selector-using-naive-bayes
+    Understand the Problem Statement and Business Case
+    Data Cleansing
+    NLP
+    Naive Bayes Classifier
+    exploratory data analysis
+    Prepare the data
+    count vectorization
+    Visualize cleaned datasets
+    Understand the intuition behind Naive Bayes Classifier
+    confusion matrix
+https://www.coursera.org/projects/spark-machine-learning-pipeline-python
+    Machine Learning Pipelines
+    hyperparameter tuning
+    PySpark
+    Cross Validation
+    Python
+    Spark
+    Google Colab
+    Random Forest pipeline
+    cross validator for hyperparameter tuning
+    model evaluation metrics
+https://www.coursera.org/projects/telecom-customer-churn-prediction
+    customer churn rate
+    Understand the theory and intuition
+    Classifiers
+    Logistic Regression
+    Support Vector Machines
+    K-Nearest Neighbor
+    Random Forest
+    Python
+    Exploratory Data Analysis
+    Perform Data Visualization
+    Prepare the data
+    Compare models using AUC score
+    Compare models using  ROC curv
+NODATA https://www.coursera.org/learn/data-mining-methods
+    data mining pipeline
+    core techniques used in data mining
+    frequent pattern analysis
+    classification
+    clustering
+    outlier analysis
+    mining complex data
+NODATA https://www.coursera.org/learn/data-mining-pipeline
+    data mining pipeline
+    data understanding
+    data preprocessing
+    data warehousing
+    data modeling
+    data interpretation
+    data evaluation
+    real-world applications
+4.3/297 https://www.coursera.org/learn/data-patterns
+    Pattern Mining
+    Streams
+    Sequential Pattern Mining
+    Data Mining Algorithms
+    Data Mining
+    frequent patterns, closed patterns, max-patterns, and association rule
+    downward closure (or Apriori) property of frequent patterns
+    the Apriori algorithm, the method that explores vertical data format, and the pattern-growth approach
+    pattern evaluation
+    support-confidence framework is inadequate for pattern evaluation
+    null-invariance and introduce a new null-invariant measure for pattern evaluation
+    mining methods for multiple-level associations
+    mining methods for multi-dimensional associations
+    mining methods for quantitative associations
+    mining methods for negative correlations
+    mining methods for compressed patterns
+    mining methods for redundancy-aware patterns
+    GSP method
+    SPADE method
+    PrefixSpan method
+    mining spatial associations
+    mining spatial colocation patterns
+    mining and aggregating patterns over multiple trajectories
+    mining semantics-rich movement patterns
+    mining periodic movement patterns
+    SegPhrase method
+    ToPMine method
+    mining quality phrases from text data
+    mining frequent patterns in data streams
+    pattern discovery for software bug mining, image analysis, and society
+    privacy-preserving pattern mining
+4.5/7600 https://www.coursera.org/learn/data-science-course
+    A Crash Course in Data Science
+    Data Science
+    Data Analysis
+    Machine Learning
+4.4/940 https://www.coursera.org/learn/dwdesign
+    Extraction, Transformation And Loading (ETL)
+    Pentaho
+    Data Integration
+    Data Warehouse
+    maturity models
+    architectures
+    multidimensional models
+    Evaluate an organization for data warehouse maturity and business architecture alignment
+    data integration workflows
+    change data,
+    refresh constraints
+    refresh frequency trade-offs
+    data quality goals
+NODATA https://www.coursera.org/learn/introduction-to-text-mining-with-r
+     text mining techniques
+     programmatically working with text
+     supervised learning methods
+     unsupervised learning methods
+     R programming language
+     RStudio IDE
+     Tidyverse R libraries
+     text preprocessing
+4.9/161000 https://www.coursera.org/learn/machine-learning
+    Stanford
+    Andrew Ng
+    Supervised learning
+    parametric/non-parametric algorithms
+    support vector machines
+    kernels
+    neural networks
+    Unsupervised learning
+    clustering
+    dimensionality reduction
+    recommender systems
+    deep learning
+    Best practices in machine learning
+    bias/variance theory
+    innovation process in machine learning and AI
+    case studies and applications
+4.1/304 https://www.coursera.org/learn/predictive-analytics
+    Predictive Analytics
+    R Programming
+    Random Forest
+    Predictive Analytics
+    Statistical experiment design and analytics
+    common pitfalls in interpreting statistical arguments
+    core set of practical and effective machine learning methods and concepts
+    resampling methods to make clear and bulletproof statistical arguments
+    classification methods of increasing complexity (rules, trees, random forests)
+    unsupervised learning concepts and methods
+    large-scale graph analytics
+    including structural query
+    traversals and recursive queries
+    PageRank
+    community detection
+4.4/113 https://www.coursera.org/learn/predictive-analytics-data-mining
+    science of business analytics
+    Predictive Analytics
+    Decision-Making Software
+    Geodemographic Segmentation
+    Validated Learning
+4.4/23 https://www.coursera.org/learn/predictive-modeling-model-fitting-regression-analysis
+    Predictive Modeling
+    Model Fitting
+    Regression Analysis
+    application of predictive modeling to professional and academic work
+    Applications of regression analysis (linear and logistic)
+NODATA https://www.coursera.org/learn/probability-theory-foundation-for-data-science
+    Probability Theory
+    relationshit to statistics
+    Foundation for Data Science
+    independent and dependent outcomes
+    conditional events
+    Gaussian (normal) random variables
+    Central Limit Theorem
+    expectation and variance
+    continuous random variables
+    discrete random variables
+    Bayes' theorem
+4.7/2500 https://www.coursera.org/learn/uol-machine-learning-for-all
+    Machine Learning, often called Artificial Intelligence or AI
+    SUPER LOW-LEVEL INTRODUCTION
+4.8/13000 https://www.coursera.org/professional-certificates/google-data-analytics
+    R programming
+    Spreadsheet
+    Data Cleansing
+    Data Analysis
+    Data Visualization (DataViz)
+    SQL
+    Tableau
+    Questioning
+    Decision-Making
+    Problem Solving
+    Metadata
+    Data Collection
+    Data Ethics
+    Sample Size Determination
+    visualize and present data findings
+    dashboards
+4.5/230 https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate
+    Google Cloud
+    Machine Learning
+    Feature Engineering
+    Tensorflow
+    Cloud Computing
+    Bigquery
+    Google Cloud Platform
+    Application Programming Interfaces (API)
+    Inclusive ML
+    Data Cleansing
+    Python Programming
+    Build Input Data Pipeline
+https://www.coursera.org/professional-certificates/tensorflow-in-practice
+    RNN, GRU, and LSTM
+    Best practices for TensorFlow,
+    Computer Vision
+    Convolutional Neural Network
+    Machine Learning
+    Natural Language Processing
+    Tensorflow
+    Inductive Transfer
+    Augmentation
+    Dropouts
+    Tokenization
+    RNNs
+    Forecasting
+    Time Series
+    Handle real-world image data
+    strategies to prevent overfitting including augmentation and dropout
+4.5/89 https://www.coursera.org/specializations/advanced-statistics-data-science
+    Advanced Statistics for Data Science
+    R Programming
+    Linear Regression
+    Statistical Hypothesis Testing
+    Statistics
+    Linear Algebra
+    Confidence Interval
+    Biostatistics
+    probability
+    expectations
+    conditional probabilities
+    distributions
+    confidence intervals
+    bootstrapping
+    binomial proportions
+    matrix algebra of linear regression
+    canonical examples of linear models
+4.5/3000 https://www.coursera.org/specializations/aml
+    Advanced Machine Learning Specialization
+    Recurrent Neural Network
+    Tensorflow
+    Convolutional Neural Network
+    Deep Learning
+    Data Analysis
+    Feature Extraction
+    Feature Engineering
+    Xgboost
+    Bayesian Optimization
+    Gaussian Process
+    Markov Chain Monte Carlo (MCMC)
+    Variational Bayesian Methods
+    Practical Reinforcement Learning
+    Natural Language Processing
+4.5/1800 https://www.coursera.org/specializations/data-mining
+    Data Mining Specialization
+    Analyze Text
+    Discover Patterns
+    Visualize Data
+    Solve real-world data mining challenges
+    Data Clustering Algorithms
+    Text Mining
+    Text retrieval
+    Search engines
+    Text analytics
+    Data Visualization (DataViz)
+    Data Mining
+    Data Visualization Software
+    Tableau Software
+    Data Virtualization
+    Information Retrieval (IR)
+    Document Retrieval
+    Machine Learning
+    Recommender Systems
+    Probabilistic Models
+    Pattern discovery
+4.6/5000 https://www.coursera.org/specializations/data-science-foundations-r
+    Data Science: Foundations using R Specialization
+    Data Science
+    Machine Learning
+    Github
+    R Programming
+    Exploratory Data Analysis
+    Rstudio
+    Data Analysis
+    Debugging
+    Data Manipulation
+    Regular Expression (REGEX)
+    Data Cleansing
+    Cluster Analysis
+4.3/54 https://www.coursera.org/specializations/data-science-fundamentals
+    Data Science Fundamentals Specialization
+    cross-industry standard process for data mining
+    CRISP-DM
+    application of predictive modeling to professional and academic work
+    Environmental Data Analysis
+    Data Documentation
+    Geophysical Data
+    Data Mining
+4.5/23000 https://www.coursera.org/specializations/data-science-python
+    inferential statistical analysis
+    data visualization
+    Text Mining
+    Python Programming
+    Pandas
+    Matplotlib
+    Numpy
+    Data Cleansing
+    Data Virtualization
+    Data Visualization (DataViz)
+    Machine Learning (ML) Algorithms
+    Machine Learning
+    Scikit-Learn
+    Natural Language Toolkit (NLTK)
+4.5/461 https://www.coursera.org/specializations/data-science-statistics-machine-learning
+    least squares
+    inference using
+    regression models
+    R programming
+    Machine Learning
+    Github
+    R Programming
+    Regression Analysis
+    Data Visualization (DataViz)
+    Statistics
+    Statistical Inference
+    Statistical Hypothesis Testing
+    Model Selection
+    Generalized Linear Model
+    Linear Regression
+    Random Forest
+    public data products
+4.9/115000 https://www.coursera.org/specializations/deep-learning
+    deep neural networks
+    analyze variance for DL applications
+    optimization algorithms
+    neural style transfer to generate art
+    image and video data
+    CNN
+    RNN
+    LSTM
+    Dropout
+    BatchNorm
+    Xavier/He initialization
+    Word Embeddings
+    HuggingFace tokenizers
+    transformer models
+    Named Entity Recognition (NER)
+    Question Answering
+    Artificial Neural Network
+    Convolutional Neural Network
+    Tensorflow
+    Python
+    Recurrent Neural Network
+    Transformers
+    Deep Learning
+    Backpropagation
+    Python Programming
+    Neural Network Architecture
+    Mathematical Optimization
+    hyperparameter tuning
+    Inductive Transfer
+    speech recognition
+    music synthesis
+    chatbots
+    machine translation
+    best practices to train and develop test sets
+    analyze bias/variance
+4.5/6700 https://www.coursera.org/specializations/executive-data-science
+    understand your role as a leader
+    Recruit, assemble, evaluate, and develop a team
+    Navigate the structure of the data science pipeline
+    Overcome the common challenges
+    Data Science
+    Data Management
+    Data Analysis
+    Communication
+    Leadership
+    Machine Learning
+    Project
+    Team Building
+    Management
+    Team Management
+    Interpretation
+    Exploratory Data Analysis
+4.5/37000 https://www.coursera.org/specializations/jhu-data-science
+    R programming
+    clean, analyze, and visualize data
+    Navigate the entire data science pipeline from data acquisition to publication
+    GitHub
+    inference
+    regression models
+    Github
+    Machine Learning
+    R Programming
+    Regression Analysis
+    Data Science
+    Rstudio
+    Data Analysis
+    Debugging
+    Data Manipulation
+    Regular Expression (REGEX)
+    Data Cleansing
+    Cluster Analysis
+4.7/11700 https://www.coursera.org/specializations/machine-learning
+    Python
+    Prediction
+    Classification
+    Clustering
+    Information Retrieval
+    analyze large and complex datasets
+    practical case studies
+    Data Clustering Algorithms
+    Machine Learning
+    Classification Algorithms
+    Decision Tree
+    Python Programming
+    Machine Learning Concepts
+    Deep Learning
+    Linear Regression
+    Ridge Regression
+    Lasso (Statistics)
+    Regression Analysis
+    Logistic Regression
+4.6/521 https://www.coursera.org/specializations/machine-learning-algorithms-real-world
+    Algorithms in the Real World
+    Clearly define an ML problem
+    identify potential ML applications
+    Prepare data
+    anticipate and mitigate common pitfalls
+    Applied Machine Learning
+    Machine Learning
+    Classification Algorithms
+    Machine Learning (ML) Algorithms
+    Project Management
+    Statistical Analysis
+    Python Programming
+    Computer Programming
+    Linear Algebra
+4.7/530 https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+    Design an ML production system end-to-end
+    project scoping
+    data needs
+    modeling strategies
+    deployment requirements
+    Build data pipelines
+    gathering datasets
+    cleaning datasets
+    validating datasets
+    data lineage and provenance
+    best practices and progressive delivery techniques
+    Managing Machine Learning Production Systems
+    Deployment Pipelines
+    Model Pipelines
+    Data Pipelines
+    Machine Learning Engineering for Production
+    Human-level Performance (HLP)
+    Concept Drift
+    Model baseline
+    Project Scoping and Design
+    ML Deployment Challenges
+    ML Metadata
+    Convolutional Neural Network
+4.6/10200 https://www.coursera.org/specializations/mathematics-machine-learning
+    Eigenvalues And Eigenvectors
+    Principal Component Analysis (PCA)
+    Multivariable Calculus
+    Linear Algebra
+    Basis (Linear Algebra)
+    Transformation Matrix
+    Linear Regression
+    Vector Calculus
+    Gradient Descent
+    Dimensionality Reduction
+    Python Programming
+4.6/72 https://www.coursera.org/specializations/practical-data-science
+    detect statistical data biases
+    feature engineering at scale
+    AutoML
+    Store & manage ML features using a feature store
+    tracking data lineage and model artifacts
+    debug, profile, tune, & evaluate models
+    end-to-end machine learning pipelines
+    human-in-the-loop pipelines
+    Natural Language Processing with BERT
+    ML Pipelines and ML Operations (MLOps)
+    A/B Testing and Model Deployment
+    Data Labeling at Scale
+    Automated Machine Learning (AutoML)
+    Statistical Data Bias Detection
+    Multi-class Classification with FastText and BlazingText
+    Data ingestion
+    Exploratory Data Analysis
+    ML Pipelines and MLOps
+    Model Training and Deployment with BERT
+    Model Debugging and Evaluation
+4.8/2300 https://www.coursera.org/specializations/reinforcement-learning
+    sequential decision making
+    Understand the space of RL algorithms
+    Temporal-Difference learning
+    Monte Carlo
+    Sarsa
+    Q-learning
+    Policy Gradients
+    Dyna
+    formalize your task as a Reinforcement Learning problem
+    how RL complements deep learning, supervised, and unsupervised learning
+    Function Approximation
+    Artificial Intelligence (AI)
+    Machine Learning
+    Reinforcement Learning
+    Function Approximation
+    Intelligent Systems
+NODATA https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications
+    Statistical Modeling for Data Science
+    regression analysis
+    model relationship between variable
+    best practices in experimental design
+    advanced statistical modeling techniques
+    generalized linear models
+    additive models
+    R Programming
+    probability theory
+    Calculus
+    Linear Algebra
+4.6/2100 https://www.coursera.org/specializations/statistics-with-python
+    Statistics with Python
+    Python
+    packages & libraries
+    importance of connecting research questions to data analysis methods
+    Python Programming
+    Data Visualization (DataViz)
+    Statistical Model
+    Statistical inference methods
+    Statistics
+    Data Analysis
+    Confidence Interval
+    Statistical Inference
+    Statistical Hypothesis Testing
+    Bayesian Statistics
+    statistical regression
+4.8/306 https://www.coursera.org/specializations/tensorflow2-deeplearning
+    TensorFlow 2 for Deep Learning
+    Tensorflow
+    keras
+    TensorFlow Probability
+    Probabilistic Neural Networks
+    Deep Learning
+    Probabilistic Neural Network
+    Generative Model
+    Probabilistic Programming Language (PRPL)
+    Getting started with TensorFlow 2
+    Probabilistic Deep Learning with TensorFlow 2
+    validating your models
+    regularisation
+    implementing callbacks
+    saving and loading models
+    python 3
+4.8/8 https://www.coursera.org/specializations/vital-skills-for-data-science
+    Vital Skills for Data Science
+    Identify applications of Data Science
+    privacy concerns
+    the steps of the Data Science process
+    explain what data science is
+    key disciplines involved
+    Information Privacy
+    Cybersecurity
+    analysis
+    Ethics
+    Data Science
+    Applied Mathematics
+    Information Science
+    Statistics
+    Computer Science
+    Algorithms
+    Privacy
+    Philosophy
+https://online.stanford.edu/courses/cs246-mining-massive-data-sets
+    Map Reduce
+    parallel algorithms
+    huge document databases
+    infinite streams of data
+    mining large social networks and web graphs
+    case studies
+https://online.stanford.edu/courses/cs224n-natural-language-processing-deep-learning
+    Natural Language Processing with Deep Learning
+    Computational properties of natural languages
+    Coreference, question answering, and machine translation
+    Processing linguistic information
+    Syntactic and semantic processing
+    Modern quantitative techniques in NLP
+    Neural network models for language understanding tasks
+https://online.stanford.edu/courses/cs224w-machine-learning-graphs
+    Machine Learning with Graphs
+    How do diseases and information spread?
+    Networks are the core of the internet, blogs, Twitter and Facebook
+    Models of the small world and decentralized search
+    Search in P2P networks and strength of weak ties
+    Graph structure of the web
+    Models of network evolution and network cascades
+    Influence maximization in networks
+    Communities and clusters in networks
+    Link analysis for networks
+    Networks with positive and negative edges
+https://online.stanford.edu/courses/cs229-machine-learning
+    Machine Learning
+    broad introduction
+    statistical pattern recognition
+    Basics concepts of machine learning
+    Generative learning algorithms
+    Evaluating and debugging learning algorithms
+    Bias/variance tradeoff and VC dimension
+    Value and policy iteration
+    Q-learning and value function approximation
+https://online.stanford.edu/courses/mse226-fundamentals-data-science-prediction-inference-causality
+    Fundamentals of Data Science
+    Prediction
+    Inference
+    Causality
+    Binary classification
+    Bootstrapping
+    Causal inference
+    Experimental design
+    Machine Learning
+    Regression
+    Statistics (frequentist, Bayesian)
+    Multiple hypothesis testing
+https://online.stanford.edu/courses/stats202-data-mining-and-analysis
+    Data Mining and Analysis
+    discover patterns and relationships in data
+    very large databases
+    web mining
+    Decision trees
+    Association rules
+    Clustering
+    Case-based methods
+    Data visualization
+https://online.stanford.edu/courses/stats214-machine-learning-theory
+    Machine Learning Theory
+    use mathematical thinking to design better machine learning methods
+    fundamental concepts and principled algorithms in machine learning
+    modern large-scale non-linear models
+    matrix factorization models
+    deep neural networks
+    uniform convergence
+    double descent phenomenon
+    implicit regularization
+    matrix completion
+    bandits
+    online learning
+    sequential decision making under uncertainty
+https://online.stanford.edu/courses/stats315b-modern-applied-statistics-data-mining
+    Modern Applied Statistics
+    Data Mining
+    predictive learning
+    descriptive learning
+    concepts that bridge gaps among statistics, computer science, and artificial intelligence
+    differentiation of predictive and descriptive learning will be examined from varying statistical perspectives
+    Classification & regression models
+    Multivariate adaptive regression splines
+    Prototype & near-neighbor methods
+    Neural networks
+https://professional.mit.edu/course-catalog/applied-data-science-program
+    Applied Data Science
+    data science techniques and their applications to real-world problems.
+    machine learning techniques
+    solve complex problems and make data-driven business decisions
+    Machine Learning
+    Deep Learning
+    Neural Networks
+    Computer Vision
+    Python
+    mathematics
+    statistics
+    recommendation systems and business applications
+    Build an industry-ready portfolio of projects
+https://micromasters.mit.edu/ds/
+    foundations of data science, statistics, and machine learning
+    Analyze big data and make data-driven predictions
+    probabilistic modeling
+    statistical inference
+    identify and deploy appropriate modeling and methodologies
+    meaningful information for decision making
+    Develop and build machine learning algorithms
+    extract meaningful information from seemingly unstructured data
+    popular unsupervised learning methods
+    clustering methodologies
+    supervised methods
+    deep neural networks
+    Techniques to leverage big datasets
+    use python and R to analyze data
+    Fundamentals of Probability
+    Fundamentals of Statistics
+    Machine Learning with Python (from Linear Models to Deep Learning)
+    Data Analysis (Statistical Modeling and Computation in Applications)
+https://statweb.stanford.edu/~tibs/stat101.html
+    what is data science?
+    getting started with R
+    Data visualization and graphics
+    Summary statistics
+    Sampling variability
+    Statistical testing and inference
+    Multiple testing and replicability
+    Causality and experimentation
+    Non-parametrics
+    Statistical and Machine learning
+http://web.stanford.edu/class/stats191/
+    https://online.stanford.edu/courses/stats191-introduction-applied-statistics
+    R
+    Python
+    predictive data modeling
+    Bootstrap
+    Correlated errors
+    Data snooping
+    Interactions and qualitative variables
+    Multiple linear regression
+    Penalized regression
+    Poisson
+    Regression and prediction
+    Simple linear regression
+    Transformations
+    Variance and cross-validation
+    Intro to statistics
+    review of probability
+https://statweb.stanford.edu/~owen/courses/200/
+    theoretical statistics
+    Intro to statistics, review of probability
+    Method of moments and maximum likelihood (ML) estimation
+    ML theory: sufficiency, Fisher info, Cramer-Rao. Bayesian approach
+    Testing: Neyman-Pearson, goodness of fit, multiple comparisons
+    Graphical summaries: QQ-plots, empirical distributions, density estimates
+    Normal theory, paired samples, simple linear regression
+    Categorical data
+    Delta method, plug-in, bootstrap, permutations, randomization, Nonparametrics
+ http://web.stanford.edu/class/stats202/intro.html
+    introductory-level course in supervised learning
+    regression and classification
+    ridge regression
+    linear and polynomial regression
+    logistic regression
+    linear discriminant analysis
+    K-nearest neighbors
+    not a math-heavy class
+    the lasso
+    cross-validation and the bootstrap
+    bias-variance tradeoff
+    apply model selection methods
+    model selection and regularization methods
+    nonlinear models
+    splines
+    generalized additive models
+    tree-based methods
+    random forests and boosting
+    support-vector machines
+    unsupervised learning methods
+    principal components
+    k-means and hierarchical clustering
+    Analyze a real dataset of moderate size using R
+    data wrangling
+    missing data
+    prediction using time series and relational data
+    non-linear dimensionality reduction techniques
+    web-based data visualizations
+    anomaly detection
+      representation learning
+https://online.stanford.edu/courses/stats203-introduction-regression-models-and-analysis-variance
+    mathematically rigorous way
+    Introduction to Regression Models
+    Analysis of Variance
+    ANOVA
+    Univariate regression.
+    Review of random variables, some linear algebra, law of averages (LLN and CLT).
+    Multivariate regression model. Geometry of least squares.
+    Review of random vectors, independence. Multivariate normal distribution.
+    Distribution theory for multivariate regression model under Gauss model.
+    Generalized and weighted least squares.
+    Diagnostics / outliers. Data snooping inflates -statistics.
+    Model selection, some selective inference.
+    Shrinkage methods: ridge regression, LASSO.
+    Logistic / probit regression.
+    Poisson regression.
+https://statweb.stanford.edu/~owen/courses/204/
+    sampling methods
+    sampling is often the source of our data
+    a tradeoff between accuracy and cost
+    the frontier of sampling (goes way beyond surveys)
+    Simple random sampling, n of out N items.
+    Unequal probability sampling (Horvitz-Thompson).
+    Raking and other weighting schemes.
+    Ratio and regression estimators.
+    Stratified sampling.
+    Cluster sampling.
+    Systematic sampling.
+    Internet surveys.
+    Network sampling and link tracing for hard to reach populations.
+    Reservoir sampling (from a stream of data).
+    Capture-recapture.
+    Small area estimation.
+    Transect sampling.
